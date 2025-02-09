@@ -19,6 +19,7 @@ beautifulsoup4>=4.13.3
 requests>=2.32.3
 python-dotenv>=1.0.1
 
+etc ...
 ```
 
 ## 🛠️ Installation
