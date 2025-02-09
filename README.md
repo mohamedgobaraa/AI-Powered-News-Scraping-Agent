@@ -61,3 +61,30 @@ conda activate llm_scraper
 conda install pip
 pip install -r requirements.txt
 ```
+
+## 🚀 Running the Application
+
+After installation, follow these steps to run the application:
+
+1. **Ensure your environment is activated**:
+```bash
+# If using conda
+conda activate llm_scraper
+
+# If using venv (Windows)
+.\venv\Scripts\activate
+
+# If using venv (Linux/Mac)
+source venv/bin/activate
+```
+
+2. **Run the Streamlit app**:
+```bash
+streamlit run app.py
+```
+
+3. **Access the application**:
+- The app will automatically open in your default web browser
+- If not, navigate to the URL shown in the terminal (typically http://localhost:8501)
+
+
