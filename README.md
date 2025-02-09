@@ -2,6 +2,11 @@
 
 An advanced web scraping system leveraging Groq LLM and BeautifulSoup4 for intelligent content extraction and analysis. Built with Streamlit for seamless user interaction and real-time processing.
 
+## 👥 Author & Contact
+- **Created by**: Mohammad Gobara
+- **LinkedIn**: [Mohammad Gobara](https://www.linkedin.com/in/mohamed-gobara/)
+- **GitHub**: [@mohamedgobaraa](https://github.com/mohamedgobaraa)
+
 ## 🌟 Key Features
 
 - **AI-Powered Analysis**: Integration with Groq LLM for context-aware data extraction
